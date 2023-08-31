@@ -35,11 +35,6 @@ culinary gap between the Dominican Republic and the United States.
 
 ---
 
-Certainly, here's the finalized README section focusing on the Product
-Portfolio, with the signature product highlighted.
-
----
-
 ## Product Portfolio
 
 Our lineup offers 22 meticulously curated products, each serving a dual purpose:
